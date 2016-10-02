@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 61d04fc7742d9ad42a3b4f1261581ef9
+timeCreated: 1475352619
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: mur_coin_tonneau
+    100002: //RootNode
+    100004: tonneau_robinet1
+    100006: tonneau_robinet10
+    100008: tonneau_robinet11
+    100010: tonneau_robinet12
+    100012: tonneau_robinet13
+    100014: tonneau_robinet14
+    100016: tonneau_robinet15
+    100018: tonneau_robinet16
+    100020: tonneau_robinet2
+    100022: tonneau_robinet3
+    100024: tonneau_robinet4
+    100026: tonneau_robinet5
+    100028: tonneau_robinet6
+    100030: tonneau_robinet7
+    100032: tonneau_robinet8
+    100034: tonneau_robinet9
+    400000: mur_coin_tonneau
+    400002: //RootNode
+    400004: tonneau_robinet1
+    400006: tonneau_robinet10
+    400008: tonneau_robinet11
+    400010: tonneau_robinet12
+    400012: tonneau_robinet13
+    400014: tonneau_robinet14
+    400016: tonneau_robinet15
+    400018: tonneau_robinet16
+    400020: tonneau_robinet2
+    400022: tonneau_robinet3
+    400024: tonneau_robinet4
+    400026: tonneau_robinet5
+    400028: tonneau_robinet6
+    400030: tonneau_robinet7
+    400032: tonneau_robinet8
+    400034: tonneau_robinet9
+    2300000: mur_coin_tonneau
+    2300002: tonneau_robinet1
+    2300004: tonneau_robinet10
+    2300006: tonneau_robinet11
+    2300008: tonneau_robinet12
+    2300010: tonneau_robinet13
+    2300012: tonneau_robinet14
+    2300014: tonneau_robinet15
+    2300016: tonneau_robinet16
+    2300018: tonneau_robinet2
+    2300020: tonneau_robinet3
+    2300022: tonneau_robinet4
+    2300024: tonneau_robinet5
+    2300026: tonneau_robinet6
+    2300028: tonneau_robinet7
+    2300030: tonneau_robinet8
+    2300032: tonneau_robinet9
+    3300000: mur_coin_tonneau
+    3300002: tonneau_robinet1
+    3300004: tonneau_robinet10
+    3300006: tonneau_robinet11
+    3300008: tonneau_robinet12
+    3300010: tonneau_robinet13
+    3300012: tonneau_robinet14
+    3300014: tonneau_robinet15
+    3300016: tonneau_robinet16
+    3300018: tonneau_robinet2
+    3300020: tonneau_robinet3
+    3300022: tonneau_robinet4
+    3300024: tonneau_robinet5
+    3300026: tonneau_robinet6
+    3300028: tonneau_robinet7
+    3300030: tonneau_robinet8
+    3300032: tonneau_robinet9
+    4300000: tonneau_robinet1
+    4300002: tonneau_robinet2
+    4300004: tonneau_robinet3
+    4300006: tonneau_robinet4
+    4300008: tonneau_robinet5
+    4300010: tonneau_robinet6
+    4300012: tonneau_robinet7
+    4300014: tonneau_robinet8
+    4300016: tonneau_robinet9
+    4300018: tonneau_robinet10
+    4300020: tonneau_robinet11
+    4300022: tonneau_robinet12
+    4300024: tonneau_robinet13
+    4300026: tonneau_robinet14
+    4300028: tonneau_robinet15
+    4300030: tonneau_robinet16
+    4300032: mur_coin_tonneau
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
